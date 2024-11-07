@@ -60,4 +60,4 @@ def main(img_name):
         create_commits_for_date(num_commits, commit_date)
 
 if __name__ == "__main__":
-    main('template1.png')
+    main('swaggerboy.png')
